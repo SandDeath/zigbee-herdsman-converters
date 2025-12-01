@@ -1,5 +1,13 @@
 # Changelog
 
+## [25.80.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.80.0...v25.80.1) (2025-12-01)
+
+
+### Bug Fixes
+
+* Tuya RB-SRAIN01: change illuminance unit to mV https://github.com/Koenkk/zigbee2mqtt/issues/29901 ([66c7abd](https://github.com/Koenkk/zigbee-herdsman-converters/commit/66c7abd111989fe44cec3bc6707611b8afa22190))
+* Tuya ZG-204ZM: fix illuminane not reported https://github.com/Koenkk/zigbee-herdsman-converters/issues/10897 ([ff4ec51](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ff4ec51bfd0c5de1c2e276decbf291cc8cce8924))
+
 ## [25.80.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.79.0...v25.80.0) (2025-12-01)
 
 
